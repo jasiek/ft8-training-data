@@ -1,0 +1,18 @@
+{
+ "url": "http://kk6pr.ddns.net:8077/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "label": "0-30 MHz SDR, KK6PR Crooked River Ranch, OR - USA",
+ "station": "0-30 MHz SDR, KK6PR Crooked River Ranch, OR - USA",
+ "lat": 44.4263,
+ "lon": -121.2623,
+ "probe_decodes": 22,
+ "probe_sample": [
+  "025615 -12  0.2 1497 ~  <...> KR4FK EM85",
+  "025615  11  0.3 2400 ~  TI2YO N6DLC 73",
+  "025615  11 -0.1 1998 ~  TI2YO WB7NAM CN84",
+  "025615  -1  0.1 1815 ~  <...> NJ7G DM43",
+  "025615  -9  0.2  939 ~  CT7BRV W4WHQ EM95"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/02_80m_kk6pr-ddns-net-8077"
+}

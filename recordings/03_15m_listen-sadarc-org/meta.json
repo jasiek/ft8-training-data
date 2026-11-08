@@ -1,0 +1,18 @@
+{
+ "url": "https://listen.sadarc.org/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "label": "VK3SOL-Strathbogie Rx.3 Victoria, Australia. [LW,MW,HF]",
+ "station": "VK3SOL-Strathbogie Rx.3 Victoria, Australia. [LW,MW,HF]",
+ "lat": -36.852596,
+ "lon": 145.738417,
+ "probe_decodes": 21,
+ "probe_sample": [
+  "025615   0  0.4 2215 ~  <...> JA7GQL QM08",
+  "025615   8  0.4 2461 ~  CQ VJ6X OF78",
+  "025615   3  0.3  759 ~  <...> JH5TWQ PM63",
+  "025615 -14  0.3 1354 ~  YB2ECG BG2EFX PN26",
+  "025615   8  0.3 2701 ~  <...> JA7GKP QM05"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/03_15m_listen-sadarc-org"
+}

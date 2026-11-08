@@ -1,0 +1,18 @@
+{
+ "url": "http://wartli.proxy.kiwisdr.com:8073/",
+ "band": "17m",
+ "freq_khz": 18100.0,
+ "label": "0-30 MHz SDR | Hammond, South Australia",
+ "station": "0-30 MHz SDR | Hammond, South Australia",
+ "lat": -32.520966,
+ "lon": 138.31399,
+ "probe_decodes": 9,
+ "probe_sample": [
+  "030030   9  0.3  651 ~  R0SCG KH8A R-14",
+  "030030  -1  0.4 1024 ~  JF1VST JJ6CRH RR73",
+  "030030  -8  0.2 2312 ~  PY3TW JQ2LVH R-20",
+  "030030 -13  0.7 1549 ~  EX8ABB ZL1KS RE66",
+  "030030 -11  0.5 1467 ~  CQ VK6AS OF77"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/07_17m_wartli-proxy-kiwisdr-com-8073"
+}

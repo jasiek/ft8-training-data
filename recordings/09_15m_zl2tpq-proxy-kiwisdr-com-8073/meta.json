@@ -1,0 +1,18 @@
+{
+ "url": "http://zl2tpq.proxy.kiwisdr.com:8073/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "label": "KiwiSDR2 ZL2TPQ Hastings New Zealand",
+ "station": "KiwiSDR2 ZL2TPQ Hastings New Zealand",
+ "lat": -39.64573,
+ "lon": 176.823729,
+ "probe_decodes": 7,
+ "probe_sample": [
+  "030130 -18  0.3 1502 ~  JH1EIT BD3PPH OM77",
+  "030130  -7  0.2  651 ~  BA3MPJ JA1JEJ 73",
+  "030130 -20  0.4 1602 ~  JG1PXO BG5IOG 73",
+  "030130 -15  0.2  993 ~  CQ HP1DAV FJ09",
+  "030130 -12  0.3  545 ~  CQ BA4WEC PM01"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/09_15m_zl2tpq-proxy-kiwisdr-com-8073"
+}

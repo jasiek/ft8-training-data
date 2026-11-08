@@ -1,0 +1,20 @@
+22:01:55 recording 10 receivers from 03:02:00Z for 30 min
+22:02:05 [http://88.81.100.130:8073/] KiwiError('too_busy=4'); retry in 20s
+22:02:35 [http://88.81.100.130:8073/] KiwiError('too_busy=4'); retry in 20s
+22:03:05 [http://88.81.100.130:8073/] KiwiError('too_busy=4'); retry in 20s
+22:03:35 [http://88.81.100.130:8073/] KiwiError('too_busy=4'); retry in 20s
+22:04:05 [http://88.81.100.130:8073/] KiwiError('too_busy=4'); retry in 20s
+22:04:25 [04 160m] done: 0 slots
+22:31:55 [http://zl2tpq.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+22:31:55 [http://wartli.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+22:31:55 [http://kx4az2.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+22:32:01 [02 80m] done: 120 slots
+22:32:01 [01 30m] done: 120 slots
+22:32:01 [06 60m] done: 120 slots
+22:32:01 [00 40m] done: 120 slots
+22:32:01 [03 15m] done: 120 slots
+22:32:01 [08 80m] done: 120 slots
+22:32:01 [05 20m] done: 119 slots
+22:32:02 [09 15m] done: 119 slots
+22:32:02 [07 17m] done: 119 slots
+22:33:31 [04 160m replacement] done: 120 slots

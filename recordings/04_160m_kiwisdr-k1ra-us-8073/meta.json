@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwisdr.k1ra.us:8073/",
+ "band": "160m",
+ "freq_khz": 1840.0,
+ "label": "0-30 MHz SDR, K1RA/KW4VA Virginia, USA",
+ "station": "0-30 MHz SDR, K1RA/KW4VA Virginia, USA",
+ "lat": 38.742405,
+ "lon": -77.797874,
+ "probe_decodes": 7,
+ "probe_sample": [
+  "030245   5 -0.2  222 ~  CQ DX AA1K FM29",
+  "030245  -3  0.1 1066 ~  KB3Z AA2T +01",
+  "030245   8 -0.0 1160 ~  WB6AGE KC4WQ R-10",
+  "030245  -1  0.1 1478 ~  VE3SJJ W1WSF RR73",
+  "030245 -11  0.2 2417 ~  K0CRN K0JQZ -08"
+ ]
+}

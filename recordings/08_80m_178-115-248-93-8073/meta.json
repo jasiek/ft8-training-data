@@ -1,0 +1,18 @@
+{
+ "url": "http://178.115.248.93:8073/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "label": "OE5SLN Web-SDR | Mehrnbach, Upper Austria, Austria",
+ "station": "OE5SLN Web-SDR | Mehrnbach, Upper Austria, Austria",
+ "lat": 48.203277,
+ "lon": 13.442537,
+ "probe_decodes": 18,
+ "probe_sample": [
+  "030130 -21  1.0 1500 ~  N6DLC AA2MF -09",
+  "030130  17  0.4 2697 ~  IK3ACI F5MXH R-19",
+  "030130  13  0.4 1778 ~  DM1AL IK4TVP -13",
+  "030130  -6  0.3 1094 ~  OE1TKS R4FDD -10",
+  "030130  24  0.3  451 ~  CQ F1PBZ JN26"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/08_80m_178-115-248-93-8073"
+}

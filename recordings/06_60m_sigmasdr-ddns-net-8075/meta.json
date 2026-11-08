@@ -1,0 +1,18 @@
+{
+ "url": "http://sigmasdr.ddns.net:8075/",
+ "band": "60m",
+ "freq_khz": 5357.0,
+ "label": "N1NTE-3 - MA/CT Border, USA",
+ "station": "N1NTE-3 - MA/CT Border, USA",
+ "lat": 42.033943,
+ "lon": -72.140461,
+ "probe_decodes": 10,
+ "probe_sample": [
+  "030030  19 -0.4 1347 ~  WA4MB W3AAR -05",
+  "030030   4  0.3 1535 ~  G8OO N5EE -24",
+  "030030  10  0.4  496 ~  CQ KC9EP EM67",
+  "030030 -12  0.2 1946 ~  N1KIN VE3DZ FN03",
+  "030030   2  0.3  985 ~  VA3GPL J88IH -02"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/06_60m_sigmasdr-ddns-net-8075"
+}

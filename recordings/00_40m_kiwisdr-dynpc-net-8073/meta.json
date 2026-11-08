@@ -1,0 +1,18 @@
+{
+ "url": "http://kiwisdr.dynpc.net:8073/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "label": "Hamburg Metropol south | Germany",
+ "station": "Hamburg Metropol south | Germany",
+ "lat": 53.43,
+ "lon": 9.77,
+ "probe_decodes": 30,
+ "probe_sample": [
+  "025445 -12  0.5 1496 ~  M7LYG KP4MAQ RR73",
+  "025445   6  0.1  357 ~  UD6AOY UA4FKT 73",
+  "025445  -2  0.2  829 ~  CQ TA4SSK KM57",
+  "025445  -5 -0.5 1594 ~  <...> F8MRQ JN17",
+  "025445  -7  0.1 1159 ~  <...> ON1JP -20"
+ ],
+ "dir": "/Users/jps/tmp/ft8-training-data/recordings/00_40m_kiwisdr-dynpc-net-8073"
+}
